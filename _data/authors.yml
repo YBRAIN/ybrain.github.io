@@ -1,0 +1,12 @@
+Sangwoo Maeng:
+  name: "맹상우"
+  bio: "본디 Android 개발자지만 점점 잡식성 개발자로 변해갑니다. 코드결벽증이 있습니다."
+  avatar: "/assets/images/author_sangwoo.png"
+  links:
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://mswokk.github.io"
+
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:mswokk@gmail.com"
