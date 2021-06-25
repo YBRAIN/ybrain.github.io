@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/ybrain_img03.jpg
 
-excerpt: "와이브레인 소프트웨어팀의 개발 이야기를 포스팅하는 공간입니다."
+excerpt: "와이브레인 개발팀의 이야기를 포스팅하는 공간입니다."
   
 ---
 
