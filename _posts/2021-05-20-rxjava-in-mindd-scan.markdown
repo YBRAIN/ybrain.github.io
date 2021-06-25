@@ -3,7 +3,7 @@ publish: true
 title: "RxJava를 이용한 뇌파 데이터 스트리밍"
 author: Sangwoo Maeng
 categories:
-  - Jekyll
+  - software
 tags: 
   - YBRAIN
   - MINDD SCAN
@@ -17,7 +17,7 @@ tags:
 
 ![](/assets/images/mindd_scan.jpg)
 
-> 이 글은 독자의 ReactiveX에 대한 기본적인 이해를 가정합니다.
+> 이 글은 ReactiveX에 대한 기본적인 이해를 가정합니다.
 
 MINDD SCAN은 와이브레인에서 개발한 Desktop용 정량뇌파측정용 의료기기 소프트웨어입니다.
 올해 초에 Major 업데이트로 출시한 MINDD SCAN은 사실 거의 모든 부분에서 RxJava를 활용했습니다.
@@ -188,5 +188,4 @@ val filteredEegSignal = observeSignals()
 ## 마무리
 조금 과장하면 제 개발인생은 ReactiveX를 알기 전과 후로 나뉘는 것 같습니다.
 손으로 구현하기 번거로운 코드들을 한 줄로 깔끔하게 처리할 수 있다는 점이 개인적으로 RxJava의 가장 큰 매력입니다. 
-포스팅에 잘못된 점이 있다면 언제든 지적해주세요.
-곧 댓글 서비스 밑에 달 예정입니다.
+포스팅에 잘못된 점이 있다면 제보바랍니다.
