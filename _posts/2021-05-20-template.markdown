@@ -1,17 +1,19 @@
 ---
-published: true
-title: "RxJava를 이용한 뇌파 데이터 스트리밍"
-author: Sangwoo Maeng
-categories:
+published: false  # true 로 바꿔야 웹에 출력됩니다.
+title: "여기에 제목을 적으시고요"
+author: Sangwoo Maeng # _data/authors.yml 에 있는 Author의 이름을 적어주세요
+categories: # 카테고리는 되도록 추가하지마시고 software 로 해주세요. 나중에 interview, culture, ai 이런식으로 글쓰는 분들이 늘면 추가됩니다.
   - software
-tags: 
+tags: # 포스트의 태그를 걸어주세요. 가급적 핵심적인걸로 6개 안팎 추천
   - YBRAIN
   - MINDD SCAN
   - RxJava
   - Kotlin
   - JavaFx  
   - 뇌파
-  - EEG  
+  - EEG
+
+ # 기본적으로 mermaid-js 를 지원하니 차트그릴때 활용하세요 
 --- 
 
 
