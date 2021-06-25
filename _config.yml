@@ -104,3 +104,9 @@ defaults:
       path: ""
     values:
       layout: single
+      author_profile: false
+
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "ybrain-tech"
