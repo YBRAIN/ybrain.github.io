@@ -30,6 +30,7 @@ github_username: ybrain
 # Build settings
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -53,7 +54,7 @@ exclude:
 
 include: [ "_pages" ]
 
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.23.0"
 minimal_mistakes_skin: "air"
 
 # 코드블록에 라인넘버 나오게
