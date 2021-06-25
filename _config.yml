@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   와이브레인 소프트웨어팀의 기술블로그
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ybrain.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ybrain.github.io"
 github_username: ybrain
 
 # Build settings
