@@ -30,7 +30,6 @@ github_username: ybrain
 # Build settings
 plugins:
   - jekyll-feed
-  - jekyll-archives
 
 # Exclude from processing.
 # The following items will not be processed, by default.
