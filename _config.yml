@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: YBRAIN 기술블로그
+title: Ybrain 기술블로그
 email: dev@ybrain.com
 description: >- # this means to ignore newlines until "baseurl:"
-  와이브레인 소프트웨어팀의 기술블로그
+  와이브레인 기술블로그
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ybrain.github.io"

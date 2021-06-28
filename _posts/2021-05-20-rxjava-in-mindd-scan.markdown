@@ -5,7 +5,7 @@ author: Sangwoo Maeng
 categories:
   - software
 tags: 
-  - YBRAIN
+  - Ybrain
   - MINDD SCAN
   - RxJava
   - Kotlin

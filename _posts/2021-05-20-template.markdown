@@ -5,7 +5,7 @@ author: Sangwoo Maeng # _data/authors.yml 에 있는 Author의 이름을 적어�
 categories: # 카테고리는 되도록 추가하지마시고 software 로 해주세요. 나중에 interview, culture, ai 이런식으로 글쓰는 분들이 늘면 추가됩니다.
   - software
 tags: # 포스트의 태그를 걸어주세요. 가급적 핵심적인걸로 6개 안팎 추천
-  - YBRAIN
+  - Ybrain
   - MINDD SCAN
   - RxJava
   - Kotlin
@@ -15,7 +15,6 @@ tags: # 포스트의 태그를 걸어주세요. 가급적 핵심적인걸로 6�
 
  # 기본적으로 mermaid-js 를 지원하니 차트그릴때 활용하세요 
 --- 
-
 
 ![](/assets/images/mindd_scan.jpg)
 
